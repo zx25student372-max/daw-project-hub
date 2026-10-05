@@ -30,3 +30,8 @@ main p {
 .parrafo-colaboracion {
     border-color: #e74c3c;
 }
+
+h2, h3 {
+    color: #2c3e50;
+    margin-top: 20px;
+}
